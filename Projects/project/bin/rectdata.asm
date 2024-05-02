@@ -1,0 +1,9 @@
+pixelX dw ?
+pixelY dw ?
+lineX dw ?
+lineY dw ?
+rectX dw ?
+rectY dw ?
+rectWidth dw ?
+rectHeight dw ?
+rectColor db 0
